@@ -5,4 +5,7 @@
   <Folder Name="/src/">
     <Project Path="src/EZ.Redact.Lgpd.EntityFramework/EZ.Redact.Lgpd.EntityFramework.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EZ.Redact.Lgpd.EntityFramework.Tests/EZ.Redact.Lgpd.EntityFramework.Tests.csproj" />
+  </Folder>
 </Solution>
